@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantastical_Deathmatch.UI", "Fantastical_Deathmatch\Fantastical_Deathmatch.UI.csproj", "{24B7691C-F38F-457F-9CBD-F139441E0973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantastic_Deathmatch.data", "ClassLibrary1\Fantastic_Deathmatch.data.csproj", "{E24B34DD-D84E-40A8-988A-6BCE89C2DDF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24B7691C-F38F-457F-9CBD-F139441E0973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B7691C-F38F-457F-9CBD-F139441E0973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B7691C-F38F-457F-9CBD-F139441E0973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B7691C-F38F-457F-9CBD-F139441E0973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24B34DD-D84E-40A8-988A-6BCE89C2DDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24B34DD-D84E-40A8-988A-6BCE89C2DDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24B34DD-D84E-40A8-988A-6BCE89C2DDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24B34DD-D84E-40A8-988A-6BCE89C2DDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

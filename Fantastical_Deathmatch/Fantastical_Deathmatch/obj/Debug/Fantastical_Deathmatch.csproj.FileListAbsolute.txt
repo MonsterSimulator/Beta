@@ -1,0 +1,8 @@
+c:\users\zach\documents\visual studio 2017\Projects\Fantastical_Deathmatch\Fantastical_Deathmatch\bin\Debug\Fantastical_Deathmatch.exe.config
+c:\users\zach\documents\visual studio 2017\Projects\Fantastical_Deathmatch\Fantastical_Deathmatch\bin\Debug\Fantastical_Deathmatch.exe
+c:\users\zach\documents\visual studio 2017\Projects\Fantastical_Deathmatch\Fantastical_Deathmatch\bin\Debug\Fantastical_Deathmatch.pdb
+c:\users\zach\documents\visual studio 2017\Projects\Fantastical_Deathmatch\Fantastical_Deathmatch\bin\Debug\ClassLibrary1.dll
+c:\users\zach\documents\visual studio 2017\Projects\Fantastical_Deathmatch\Fantastical_Deathmatch\bin\Debug\ClassLibrary1.pdb
+c:\users\zach\documents\visual studio 2017\Projects\Fantastical_Deathmatch\Fantastical_Deathmatch\obj\Debug\Fantastical_Deathmatch.csprojResolveAssemblyReference.cache
+c:\users\zach\documents\visual studio 2017\Projects\Fantastical_Deathmatch\Fantastical_Deathmatch\obj\Debug\Fantastical_Deathmatch.exe
+c:\users\zach\documents\visual studio 2017\Projects\Fantastical_Deathmatch\Fantastical_Deathmatch\obj\Debug\Fantastical_Deathmatch.pdb
