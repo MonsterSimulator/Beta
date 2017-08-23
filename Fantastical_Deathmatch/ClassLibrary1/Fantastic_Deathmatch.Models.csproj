@@ -7,8 +7,8 @@
     <ProjectGuid>{E24B34DD-D84E-40A8-988A-6BCE89C2DDF6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary1</RootNamespace>
-    <AssemblyName>ClassLibrary1</AssemblyName>
+    <RootNamespace>Fantastical_Deathmatch.Models</RootNamespace>
+    <AssemblyName>Fantastical_Deathmatch.Models</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -45,6 +45,9 @@
     <Compile Include="Orc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Skeleton.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MonsterDiagram.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

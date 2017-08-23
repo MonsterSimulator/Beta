@@ -14,3 +14,6 @@ C:\Users\praisekek\Desktop\CreatureBrawler\Fantastical_Deathmatch\Fantastical_De
 C:\Users\praisekek\Desktop\CreatureBrawler\Fantastical_Deathmatch\Fantastical_Deathmatch\bin\Debug\ClassLibrary1.dll
 C:\Users\praisekek\Desktop\CreatureBrawler\Fantastical_Deathmatch\Fantastical_Deathmatch\bin\Debug\ClassLibrary1.pdb
 C:\Users\praisekek\Desktop\CreatureBrawler\Fantastical_Deathmatch\Fantastical_Deathmatch\obj\Debug\Fantastical_Deathmatch.UI.csprojResolveAssemblyReference.cache
+C:\Users\praisekek\Desktop\Beta\Fantastical_Deathmatch\Fantastical_Deathmatch\bin\Debug\Fantastical_Deathmatch.exe.config
+C:\Users\praisekek\Desktop\Beta\Fantastical_Deathmatch\Fantastical_Deathmatch\obj\Debug\Fantastical_Deathmatch.exe
+C:\Users\praisekek\Desktop\Beta\Fantastical_Deathmatch\Fantastical_Deathmatch\obj\Debug\Fantastical_Deathmatch.pdb

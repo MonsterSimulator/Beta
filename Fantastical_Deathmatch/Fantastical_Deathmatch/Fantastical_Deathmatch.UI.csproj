@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\Fantastic_Deathmatch.data.csproj">
+    <ProjectReference Include="..\ClassLibrary1\Fantastic_Deathmatch.Models.csproj">
       <Project>{e24b34dd-d84e-40a8-988a-6bce89c2ddf6}</Project>
-      <Name>Fantastic_Deathmatch.data</Name>
+      <Name>Fantastic_Deathmatch.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

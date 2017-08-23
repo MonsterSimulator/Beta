@@ -4,27 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary1
+namespace Fantastical_Deathmatch.Models
 {
    public class Orc:Creature
     {
 
+        string[] nameGenerator = new string[]
+        { "Grogar", "Xanzar", "Allaar", "Boogar", "Stagarr", "Cranbar", "Snowgar" };
+
+        string[] titleGenerator = new string[]
+        { "Wolftamer", "Dragonstabber", "Tinkerer", "Chef", "Destroyer", "Explosive", "Orc Annoyer" };
+
+        string[] clanGenerator = new string[]
+        { "Stonebird Clan", "Humanslayer Clan", "Wyrmskin Clan", "Rider Clan"};
+
         private static Random _rng = new Random();
 
-        private int _hitPoints;
-        private string _name;
-        private bool _isDead;
+        public Orc()
+        {
+            _creatureName = nameGenerator[_rng.Next(6)] + " the " + titleGenerator[_rng.Next(6)] + " of " + clanGenerator[_rng.Next(3)];
 
-        public int GetHitPoints() { return _hitPoints; }
-        public int SetHitPoints(int hp) {
-            _hitPoints = hp + _rng.Next(15);
-            return _hitPoints;
+            _dodge = 4;
+
+            _hitPoints -= 5;
+
+            _armor += _rng.Next(0, 2);
         }
-        public string GetName() { return _name; }
-        public string SetName(string name) { _name = name; return _name;}
-
-        public bool IsDead() { return _isDead; }
-        
-        //public void Attack(Creature enemy)
     }
 }
